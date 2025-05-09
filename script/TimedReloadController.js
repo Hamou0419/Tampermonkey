@@ -2,7 +2,7 @@
 // @name         TimedReloadController
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  固定時間時間前後重整網頁
+// @description  固定時間前後重整網頁
 // @match        https://www.google.com/
 // @author       Hamou
 // @grant        none
